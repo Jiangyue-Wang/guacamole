@@ -2,3 +2,5 @@ banana
 avocado
 coriander
 cilantro
+pineapple
+pepper
